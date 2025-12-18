@@ -3,6 +3,8 @@
 [English](#english) | [日本語](#japanese)
 
 ---
+Download(ダウンロード): https://modrinth.com/plugin/gamemodecheck/
+---
 
 ## English
 
@@ -189,4 +191,5 @@ Minecraftのカラーコード（`&` プレフィックス）を使用してこ�
 ### 作者
 
 koirdsuzu
+
 
